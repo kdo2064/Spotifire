@@ -1,4 +1,4 @@
-# Spotifire- Spotify song downloader
+# Spotifire- Spotify Song Downloader
 
 <img  width="100%" hight="auto" src="assest/banner.gif"  />
 <div align="left">
