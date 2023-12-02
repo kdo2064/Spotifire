@@ -29,7 +29,7 @@ Linux commands.
 
 * `git clone https://github.com/kdo2064/Spotifire`
 
-* `cd DxCyberD`
+* `cd Spotifire`
 
 Termux commands.
 
@@ -41,7 +41,7 @@ Termux commands.
 
 * `git clone https://github.com/kdo2064/Spotifire`
 
-* `cd DxCyberD`
+* `cd Spotifire`
 
 
 
